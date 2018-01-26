@@ -1,0 +1,60 @@
+* {
+  font-family: helvetica;
+}
+
+nav {
+  background-color: #42c5f4;
+
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+nav img {
+  height: 30px;
+}
+
+.banner {
+  background-image: url(../../images/park.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  text-align: center;
+}
+
+.maindog {
+  border-radius: 100%;
+  height: 300px;
+  width: 300px;
+}
+
+button {
+  color: #2d9ec6;
+  background-color: white;
+  padding: 10px;
+  border: 3px solid #2d9ec6;
+}
+
+.moreinfo {
+  margin: 15px;
+}
+
+.dogpic {
+  border-radius: 100%;
+  height: 200px;
+}
+
+.info {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  text-align: center;
+  background-color: #2d9ec6;
+  color: #FFFFFF;
+}
